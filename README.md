@@ -3,7 +3,7 @@
     Project of CS50W Havard EDX project. Creating a clone google search form with HTML and SCSS
 
 ### Youtube Video
-    A working video showing the clone Google Search which meets the required specification of the project: https://youtu.be/wh1vkI0Zaa0 to the video 
+    A working video showing the clone Google Search which meets the required specification of the project: [youtube link](https://youtu.be/wh1vkI0Zaa0) to the video 
 
 ### The Project Requirements
     
