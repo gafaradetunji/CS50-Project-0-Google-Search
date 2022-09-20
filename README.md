@@ -15,11 +15,11 @@ A working video showing the clone Google Search which meets the required specifi
 
 -**On the Google Image Search page:**, the user should be able to type in a query, click a search button, and be taken to the Google Image search results for that page.
 
--**On the Google Advanced Search page:**, the user should be able to provide input for the following four fields (taken from Google’s own [advanced search](https://www.google.com/advanced_search) options) 
-    -Find pages with… “all these words:”
-    -Find pages with… “this exact word or phrase:”
-    -Find pages with… “any of these words:”
-    -Find pages with… “none of these words:”
+-**On the Google Advanced Search page:**, the user should be able to provide input for the following four fields (taken from Google’s own [advanced search](https://www.google.com/advanced_search) options).
+-Find pages with… “all these words:”
+-Find pages with… “this exact word or phrase:”
+-Find pages with… “any of these words:”
+-Find pages with… “none of these words:”.
 -**Like Google’s own Advanced Search page:**, the four options should be stacked vertically, and all of the text fields should be left aligned. 
 -**Consistent with Google’s own CSS:**, the “Advanced Search” button should be blue with white text.
     -When the “Advanced Search” button is clicked, the user should be taken to the search results page for their given query.
